@@ -7,4 +7,4 @@ After that, open up a code editor like VS code and change **overworld.mid** with
 Example: tetris_tutorial.mid
 
 # License
-Licensed under DBAD Public License (i dont know why i made this have that)
+Licensed under [DBAD Public License](https://github.com/GreenWeegeeCantCode/PyMIDIReader/blob/main/LICENSE) (i dont know why i made this have that)

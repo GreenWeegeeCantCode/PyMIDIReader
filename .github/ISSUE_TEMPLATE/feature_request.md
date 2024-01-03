@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: [Type: FRequest]
+title: '[Type: FRequest]'
 labels: ''
 assignees: ''
 
